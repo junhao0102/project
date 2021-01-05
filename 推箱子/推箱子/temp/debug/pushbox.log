@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+c:\users\user\desktop\推箱子\推箱子\source\main.c(36): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+  c:\users\user\desktop\推箱子\推箱子\source\main.c(36): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+  c:\users\user\desktop\推箱子\推箱子\source\main.c(36): note: 缺少 variadic 引數 2 (其為格式字串 '%c' 所需)
+  c:\users\user\desktop\推箱子\推箱子\source\main.c(36): note: 此引數可用為緩衝區大小
+c:\users\user\desktop\推箱子\推箱子\source\main.c(62): warning C4554: '|': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\user\desktop\推箱子\推箱子\source\main.c(63): warning C4554: '|': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\user\desktop\推箱子\推箱子\source\main.c(64): warning C4554: '|': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\user\desktop\推箱子\推箱子\source\main.c(78): warning C4554: '|': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\user\desktop\推箱子\推箱子\source\main.c(79): warning C4554: '|': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\user\desktop\推箱子\推箱子\source\main.c(80): warning C4554: '|': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\user\desktop\推箱子\推箱子\source\main.c(94): warning C4554: '|': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\user\desktop\推箱子\推箱子\source\main.c(95): warning C4554: '|': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\user\desktop\推箱子\推箱子\source\main.c(96): warning C4554: '|': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\user\desktop\推箱子\推箱子\source\main.c(110): warning C4554: '|': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\user\desktop\推箱子\推箱子\source\main.c(110): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\user\desktop\推箱子\推箱子\source\main.c(111): warning C4554: '|': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\user\desktop\推箱子\推箱子\source\main.c(112): warning C4554: '|': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\user\desktop\推箱子\推箱子\source\main.c(234): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\user\desktop\推箱子\推箱子\source\main.c(219): warning C4716: 'targethit': 必須傳回值
+c:\users\user\desktop\推箱子\推箱子\source\main.c(228): warning C4716: 'goal': 必須傳回值
+  pushbox.vcxproj -> C:\Users\user\Desktop\推箱子\推箱子\pushbox\pushbox\..\..\temp\debug\pushbox.exe
